@@ -1,4 +1,6 @@
-# Commands
+# Cassandra
+
+## Commands
 
 To start Cassandra:
 ```
