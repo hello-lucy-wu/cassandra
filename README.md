@@ -1,4 +1,4 @@
-# cassandra
+# Commends
 
 To start Cassandra:
 ```
