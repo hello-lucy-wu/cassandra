@@ -1,4 +1,5 @@
 ### Commands
+- Start Cassandra: `cassandra -f`
 
 ### Cassandra file locations
 - Properties: `/usr/local/etc/cassandra`
